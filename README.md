@@ -1,7 +1,7 @@
 # Big Game Survey 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/fadultech/exemplo-readme/blob/main/LICENSE) 
 
-# Sobre o projeto
+# About the project
 
 https://wmazoni-sds1.netlify.app
 
@@ -17,10 +17,10 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 
 ![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
 
-## Modelo conceitual
+## Conceptual model
 ![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
 
-# Tecnologias utilizadas
+# Technologies used
 ## Back end
 - Java
 - Spring Boot
@@ -32,24 +32,24 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 - React Native
 - Apex Charts
 - Expo
-## Implantação em produção
+## Deployment in production
 - Back end: Heroku
 - Front end web: Netlify
 - Banco de dados: Postgresql
 
-# Como executar o projeto
+# How to run the project
 
 ## Back end
 Pré-requisitos: Java 11
 
 ```bash
-# clonar repositório
+# clone repository
 git clone https://github.com/devsuperior/sds1-wmazoni
 
-# entrar na pasta do projeto back end
+# enter the back end project folder
 cd backend
 
-# executar o projeto
+# run the project
 ./mvnw spring-boot:run
 ```
 
@@ -57,20 +57,20 @@ cd backend
 Pré-requisitos: npm / yarn
 
 ```bash
-# clonar repositório
+# clone repository
 git clone https://github.com/devsuperior/sds1-wmazoni
 
-# entrar na pasta do projeto front end web
+# enter the front end web project folder
 cd front-web
 
-# instalar dependências
+# install dependencies
 yarn install
 
-# executar o projeto
+# run the project
 yarn start
 ```
 
-# Autor
+# Author
 
 Wellington Mazoni de Andrade
 
