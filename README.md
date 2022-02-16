@@ -72,6 +72,6 @@ yarn start
 
 # Author
 
-Wellington Mazoni de Andrade
+Jairo Fadul
 
-https://www.linkedin.com/in/wmazoni
+http://lattes.cnpq.br/5482391365956398
